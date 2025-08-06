@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://abhishekdev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)]([https://abhishekdev.com](https://my-portfolio-ochre-three-25.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhishekSingh-blue?logo=linkedin)](https://linkedin.com/in/abhishek-singh)
 [![Email](https://img.shields.io/badge/Gmail-abhisheksinghrajput5888@gmail.com-red?logo=gmail)](mailto:abhisheksinghrajput5888@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-avisek85-black?logo=github)](https://github.com/avisek85)
