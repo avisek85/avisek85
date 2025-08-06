@@ -5,7 +5,7 @@
 - 🔭 Currently building: **PcActivityTracker** – A pc activity tracking web app.
 - 🌱 Learning: DevOps, Docker, System Design
 - 💬 Ask me about: MERN, Python, FastAPI, AI Integrations
-- 📫 Reach me at: [LinkedIn]([[https://linkedin.com/in/abhishek-singh-185861267]])
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourname)
 
 ---
 
