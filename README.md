@@ -80,9 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek85&layout=compact&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisek85&theme=tokyonight" height="150" />
-</p>
 
 ---
 
