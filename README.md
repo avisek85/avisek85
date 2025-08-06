@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi, I'm Abhishek Singh
 
-<!--
-**avisek85/avisek85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN | FastAPI | Voice Tech Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 Currently building: **VocalAI** – A voice cloning web app using Coqui & Vakyansh TTS.
+- 🌱 Learning: DevOps, Docker, System Design
+- 💬 Ask me about: MERN, Python, FastAPI, AI Integrations
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourname)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+---
+
+### 📈 GitHub Stats
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 🚀 Featured Projects
+[![VocalAI](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=VocalAI&theme=radical)](https://github.com/yourusername/VocalAI)
