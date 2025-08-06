@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm Abhishek Singh
 
-🚀 Full Stack Developer | MERN | FastAPI | Voice Tech Enthusiast
+🚀 Full Stack Developer | MERN | FastAPI 
 
-- 🔭 Currently building: **VocalAI** – A voice cloning web app using Coqui & Vakyansh TTS.
+- 🔭 Currently building: **PcActivityTracker** – A pc activity tracking web app.
 - 🌱 Learning: DevOps, Docker, System Design
 - 💬 Ask me about: MERN, Python, FastAPI, AI Integrations
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 Reach me at: [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/abhishek-singh-185861267))
 
 ---
 
