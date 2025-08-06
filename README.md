@@ -1,29 +1,90 @@
-### 👋 Hi, I'm Abhishek Singh
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 
-🚀 Full Stack Developer | MERN | FastAPI 
-
-- 🔭 Currently building: **PcActivityTracker** – A pc activity tracking web app.
-- 🌱 Learning: DevOps, Docker, System Design
-- 💬 Ask me about: MERN, Python, FastAPI, AI Integrations
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/abhishek-singh-185861267)
+<p align="center">
+  <b>Full Stack Developer | MERN | Automation Enthusiast | Problem Solver</b><br>
+  💻 300+ DSA Problems Solved • 👨‍💻 Building Scalable Web Apps • 🛠️ Love Automating Stuff
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+## 🔗 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://abhishekdev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhishekSingh-blue?logo=linkedin)](https://linkedin.com/in/abhishek-singh)
+[![Email](https://img.shields.io/badge/Gmail-abhisheksinghrajput5888@gmail.com-red?logo=gmail)](mailto:abhisheksinghrajput5888@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-avisek85-black?logo=github)](https://github.com/avisek85)
+[![LeetCode](https://img.shields.io/badge/LeetCode-avisek-orange?logo=leetcode)](https://leetcode.com/avisek)
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 **B.Tech (CSE)** from **Guru Jambheshwar University of Science and Technology** (2021–2025)  
+🧠 **300+ DSA Problems** solved across platforms  
+🛠️ Currently building projects using **MERN Stack** & **Node.js Automation**  
+🔥 Passionate about building scalable apps and efficient tools
+
+---
+
+## ⚒️ Tech Stack
+
+**Languages**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+
+**Frontend**:  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+**Backend**:  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+**Database**:  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+**Tools & Platforms**:  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
 
 ---
 
-### 📈 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📌 Featured Projects
+
+### 🔹 PC Activity Tracker
+> **Tech**: MERN, JWT Auth, Framer Motion  
+✅ Real-time productivity tracking & app usage analytics  
+✅ Daily/Weekly/Yearly insights dashboard
+
+### 🔹 Sparkify
+> **Tech**: MERN, Socket.io, Matchmaking Algorithm  
+✅ Tinder-style swipe matching  
+✅ Real-time chat with optimized filters and search
+
+### 🔹 LinkedIn Automation Tool
+> **Tech**: Node.js, Puppeteer, MongoDB  
+✅ Automated job application with human-like behavior  
+✅ Intelligent filtering & tracking with timestamps
+
+➡️ Explore my repos: [@avisek85](https://github.com/avisek85?tab=repositories)
 
 ---
 
-### 🚀 Featured Projects
-[![VocalAI](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=VocalAI&theme=radical)](https://github.com/yourusername/VocalAI)
+## 🎯 Achievements
+
+- 🧠 Solved **300+ DSA problems** (LeetCode & others)  
+- 🏅 Full Stack Web Development Certification *(Udemy)*  
+- 🎓 Data Structures & Algorithms *(Love Babbar)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avisek85&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek85&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisek85&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🚀 Let's Build Something Cool Together!
+
